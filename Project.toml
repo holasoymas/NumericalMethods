@@ -1,0 +1,9 @@
+name = "NumericalMethods"
+uuid = "1ac7d464-9644-4ff4-b6e6-e6649c145fa3"
+authors = ["holasoymas"]
+version = "0.1.0"
+
+[deps]
+Calculus = "49dc2e85-a5d0-5ad3-a950-438e2897f1b9"
+PkgTemplates = "14b8a8f1-9102-5b29-a752-f990bacb7fe1"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
